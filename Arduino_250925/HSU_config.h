@@ -4,7 +4,6 @@
 #include <HX711.h>
 #include "HSU_modbus.h"
 #include "HSU_calc.h"
-#include "HSU_init.h"
 const int Control = 4;
 
 const int LOADCELL_DOUT_PIN = 2;
